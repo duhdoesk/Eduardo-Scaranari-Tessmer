@@ -2,13 +2,13 @@
 
 - I’m currently working on **developing my programming skills**
 
-- I’m currently learning **web developing**
+- I’m currently learning **android development (kotlin) and web development**
 
 - I’m looking to collaborate on **projects where I can apply my android development skills**
 
 - Ask me about **kotlin, java, python, SQL**
 
-- How to reach me **dev.edusc@gmail.com**
+- E-mail me: **dev.edusc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
