@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Eduardo</h1>
+
 - I’m currently working on **developing my programming skills**
 
 - I’m currently learning **web developing**
